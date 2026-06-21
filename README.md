@@ -5,10 +5,10 @@ A modern, responsive, and dynamic portfolio website developed using **Django**, 
 ---
 
 ## 👨‍💼 About Me
+<img src="assets/images/huzaifa.jpeg" alt="Huzaifa Imran" width="250">
 
 ### Huzaifa Imran
-## Profile Picture
-  <img src="assets/images/huzaifa.jpeg" alt="Huzaifa Imran" width="250">
+
 
 
 **Business Analyst & Web Developer**
