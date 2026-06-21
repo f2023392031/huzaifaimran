@@ -5,7 +5,7 @@ A modern, responsive, and dynamic portfolio website developed using **Django**, 
 ---
 
 ## 👨‍💼 About Me
-<img src="assets/images/huzaifa.jpeg" alt="Huzaifa Imran" width="250">
+[<img src="assets/images/huzaifa.jpeg" alt="Huzaifa Imran" width="250">](https://raw.githubusercontent.com/f2023392031/huza…32df3bd21271c2487366d792b3d866d31c37/HUZAIFA.JPEG)
 
 ### Huzaifa Imran
 
